@@ -1,5 +1,7 @@
 # Shell Scripting in One Shot – Comprehensive Guide for DevOps
 
+---bookmark--
+
 ## 1. Introduction to Shell and Environment Setup
 - What is Shell? (Bash, Zsh, Ksh, etc.)
 - Shell vs. Terminal vs. Bash
